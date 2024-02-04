@@ -16,7 +16,7 @@ def conversion_float(a):
         while (True):
             try:
                 return f'Valor: {float(a)}'
-            except:
+            except ValueError:
                 a = input('Enter a value that can be converted to a number:')
 
 num = input('Enter a value that can be converted to a number:')
