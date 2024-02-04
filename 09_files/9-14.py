@@ -24,7 +24,7 @@ for _ in range(num_students):
     names.append(name)
     grades.append(grade)
 
-with open('new_text.txt', 'w', encoding='utf-8') as file:
+with open('new_text.txt', 'w') as file:
     for name, grade in zip(names, grades):
         file.write(f'NAME: {name.title()} FINAL GRADE: {grade:.2f}\n')
         
