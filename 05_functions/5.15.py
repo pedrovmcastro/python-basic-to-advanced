@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Faça um programa que faça operações simples de frações:
  - crie e leia duas frações p e q, compostas por um numerador e denominador;
  - encontre o máximo divisor comum entre o numerador e o denominador e simplifique as frações;

@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Suppose I want to flatten a given 2-D list and only include those strings whose lengths are less than 6:
 
 planets = [[‘Mercury’, ‘Venus’, ‘Earth’], [‘Mars’, ‘Jupiter’, ‘Saturn’], [‘Uranus’, ‘Neptune’, ‘Pluto’]]

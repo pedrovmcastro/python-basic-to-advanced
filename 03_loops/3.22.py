@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Escreva um programa completo que permita a qualquer aluno introduzir, pelo teclado,
 uma sequencia arbitrária de notas (válidas no intervalo de 10 a 20) e
 que mostre na tela, como resultado, a correspondente média aritmética. O número de notas

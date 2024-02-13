@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que receba dois numeros. Calcule e mostre:
 - a soma dos números pares desse intervalo de números, incluindo
 os números digitados;

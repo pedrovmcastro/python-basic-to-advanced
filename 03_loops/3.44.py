@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Leia um número positivo do usuário, então, calcule e imprima a
 sequencia Fibonacci até o primeiro número superior ao número lido.
 

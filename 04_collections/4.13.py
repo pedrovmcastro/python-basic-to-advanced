@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Leia uma matriz de 3x3 elementos. Calcule a soma dos elementos que estão acima da diagonal principal, a soma dos
 elementos que estão abaixo da diagonal principal, e a soma dos elementos que estão na diagonal principal.
 """

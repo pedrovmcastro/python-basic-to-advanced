@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Leia uma matriz de 3x3 elementos. Calcule e imprima a sua transposta"""
 # leitura da matriz:
 matriz = []

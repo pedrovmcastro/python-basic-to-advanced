@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que calcule o menor número divisível por cada
 um dos números de 1 a 20?
 Ex:

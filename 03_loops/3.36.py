@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 100 numeros naturais
 e o quadrado da soma.
 

@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 A importancia de R$ 780.000,00 será dividida entre três ganhadores
 de um concurso. Sendo que a quantia total:
  - O primeiro ganhador receberá 46%;

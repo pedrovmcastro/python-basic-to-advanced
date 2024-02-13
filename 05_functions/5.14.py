@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Resolva as sequintes questões envolvendo duas strings (str1 e str2):
 a) calcula o comprimento de cada string;
 b) compara as duas e retorna se são iguais ou diferentes;

@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Foi realizada uma pesquisa de algumas características fisicas de cinco habitantes de certa regiao.
 De cada habitante foram coletados os seguintes dados: sexo, cor dos olhos(A - Azuis ou C - Castanhos),
 cor dos cabelos(L - Louros, P - Pretos, C - Castanhos) e idade.

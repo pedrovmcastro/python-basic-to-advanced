@@ -1,4 +1,13 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+
+"""
 Faça um programa que leia um número inteiro positivo ímpar N e imprima
 todos os números ímpares de N até 1 em ordem decrescente.
 """

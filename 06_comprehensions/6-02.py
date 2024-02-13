@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 # Exercise 3 - Use a list comprehension to make a variable named fruits_with_more_than_two_vowels.
 # Hint: You'll need a way to check if something is a vowel.
 

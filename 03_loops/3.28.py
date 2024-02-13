@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que leia um valor N inteiro e positivo, calcule
 e mostre o valor de E, conforme a fórmula a seguir:
 

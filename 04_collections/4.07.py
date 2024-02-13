@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Fazer um programa para ler 10 valores e, em seguida, mostrar a posição
 onde se encontram o maior e o menor valor (caso haja mais de uma ocorrência do maior ou menor valor,
 mostrar todas posições).

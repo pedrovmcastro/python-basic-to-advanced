@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que some os termos de valor par da sequencia de
 Fibonacci, cujos valores não ultrapassem quatro milhões
 """

@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Leia uma matriz 4x4, conte e escreva quantos valores maiores que 10 ela possui."""
 matriz, count = [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]], 0
 for i in range(4):

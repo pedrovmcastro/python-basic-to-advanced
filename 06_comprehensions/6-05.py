@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Example 2:
 
 Suppose I want to flatten a given 2-D list:

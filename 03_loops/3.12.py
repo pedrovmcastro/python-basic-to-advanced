@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de N até 0
 em ordem decrescente"
 """

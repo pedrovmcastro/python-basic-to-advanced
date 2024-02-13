@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Faça um programa que leia 10 numeros inteiros positivos, ignorando não positivos, e imprima sua media"""
 
 soma = 0

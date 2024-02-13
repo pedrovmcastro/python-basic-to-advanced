@@ -1,3 +1,11 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
 """"
 Escreva um programa para calcular o valor da série, para 5 termos.
 S = 0 + 1/2! + 1/4! + 1/6! + 1/8!

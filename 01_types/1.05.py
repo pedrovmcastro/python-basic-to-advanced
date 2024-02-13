@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 # Leia um numero real e imprima a quinta parte desse número:
 
 N = float(input())

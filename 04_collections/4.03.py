@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 ler um conjunto de números reais, armazenando-os em vetor e calcular o quadrado
 das componentes deste vetor, armazenando o resultado em outro vetor.
 os conjuntos têm 10 elementos cada. imprimir todos os conjuntos.

@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Faça duas list comprehension para uma lista de números - uma para números pares dessa lista, outra
 para números impares dessa lista.
 """

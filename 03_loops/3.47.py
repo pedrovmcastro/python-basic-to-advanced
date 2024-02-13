@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que apresente um menu de opções para o
 cálculo das seguintes operações entre dois números:
 

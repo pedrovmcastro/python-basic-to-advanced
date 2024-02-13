@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 32. Leia dois vetores de inteiros x e y, cada um com 5 elementos(assuma que o usuário não informa
 elementos repetidos). Calcule e mostre os vetores resultantes em cada caso abaixo:
 -> Soma entre x e y: soma de cada elemento de x com o elemento da mesma posição em y;

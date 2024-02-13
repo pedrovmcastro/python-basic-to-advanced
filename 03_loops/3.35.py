@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que some os números impares contidos em um
 intervalo definido pelo usuário. O usuário define o valor
 inicial do intervalo e o valor final deste intervalo e o

@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça programas para calcular as sequintes sequências:
 1) 1 + 2 + 3 + 4 + 5 ... + n
 2) 1 - 2 + 3 - 4 + 5 ... + (2n-1)

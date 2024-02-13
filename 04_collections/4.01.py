@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Faça um programa que possua um vetor denominado A que armazene 6 números.
 O programa deve executar os seguintes passos:
 (a) Atribua os seguintes valores a esse vetor: 1, 0, 5, -2, -5, 7.

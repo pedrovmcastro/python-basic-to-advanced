@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um algoritmo que converta uma velocidade expressa em km/h
 para m/s e vice-versa. Voce deve criar um menu com as duas opçoes
 de conversão e com uma opçao para finalizar o programa. O usuario

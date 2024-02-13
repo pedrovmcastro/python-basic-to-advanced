@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Em Matemática, o número harmônico designado por H(n) define-se
 como sendo a soma da série harmônica:
 

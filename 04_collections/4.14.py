@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Leia uma matriz de 3x3 elementos. Calcule a soma dos elementos que estão na diagonal secundária"""
 # leitura da matriz:
 matriz = []

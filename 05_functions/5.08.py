@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 """Crie um programa que receba três valores (obrigatoriamente maiores que zero), representando as medidas
 dos três lados de um triângulo. Elabore funções para:
 a) Determinar se esses lados formam um triângulo, sabendo que:

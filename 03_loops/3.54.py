@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 Faça um programa que receba um numero inteiro maior do que 1, e
 verifique se o número fornecido é primo ou não.
 """

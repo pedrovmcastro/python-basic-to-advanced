@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 # Exercício 18: 
 # Crie uma função que aceite um número variável de dicionários como argumentos nomeados
 # e os una em um único dicionário.

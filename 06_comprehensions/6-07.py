@@ -1,4 +1,11 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+"""
 Exercise 11: Transposing a Matrix
 Transpose a matrix using a nested list comprehension.
 """

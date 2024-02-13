@@ -1,3 +1,10 @@
+"""
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
 # Exercício 17:
 # Cria uma função que aceite argumentos da linha de comando, posicionais e nomeados, 
 # e imprimir ambos os argumentos posicionais e nomeados.

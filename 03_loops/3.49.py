@@ -1,4 +1,12 @@
 """
+Exercise:
+
+(PT-BR)
+Exercício:
+
+"""
+
+"""
 O funcionario chamado Carlos tem um colega chamado Joao que recebe
 um salario que equivale a um terco do seu salario. Carlos gosta de fazer
 aplicacoes na caderneta de poupança e vai aplicar seu salário integralmente nela,
