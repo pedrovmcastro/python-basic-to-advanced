@@ -16,9 +16,6 @@ de um concurso. Sendo que a quantia total:
  - O terceiro receberá o restante;
  Calcule e imprima a quantia ganha por cada um dos ganhadores;
 """
-"""
-
-"""
 
 M = 780000
 
