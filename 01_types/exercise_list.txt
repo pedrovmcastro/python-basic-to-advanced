@@ -1,0 +1,53 @@
+"Programação em Python do básico ao avançado" Udemy course exercise list offered by Geek University:
+
+1. Implement a program that prompts the user for an integer and prints it.
+
+2. Implement a program that prompts the user for a real number and prints it.
+
+3. Implement a program that prompts the user for 3 integers and prints their sum.
+
+4. Implement a program that prompts the user for a real number and prints its square.
+
+5. Implement a program that prompts the user for a real number and prints its fifth part.
+
+6. Read a temperature in Celsius and display it on the screen converted to Fahrenheit.
+The conversion formula is: F = C*(9.0/5.0)+32.0, where C is the temperature in Celsius
+and F is the temperature converted in Fahrenheit.
+
+7. Read a temperature in Fahrenheit and display it on the screen converted to Celsius.
+The conversion formula is: C = 5.0*(F - 32.0)/9.0, where C is the temperature in Celsius
+and F the temperature in Fahrenheit. 
+
+8. Read a temperature in Celsius and display it on the screen converted to Kelvin.
+The conversion formula is: K = C + 273.15, where C is the temperature in Celsius
+and K is the temperature in Kelvin.
+
+9. Read a temperature in Kelvin and display it on the screen converted in Celsius.
+The conversion formula is: C = K - 273.15, where C is the temperature in Celsius
+and K is the temperature in Kelvin.
+
+10. Read a velocity in km/h and display it on the screen converted in m/s.
+The conversion formula is M = K/3.6, where K is the velocity in km/h 
+and M is in m/s.
+
+11. Read a distance in miles and display it on the screen converted in kilometers.
+The conversion formula is: K = 1.61 * M, where K is the distance in kilometers
+and M is in miles. 
+
+12. The amount of $780,000.00 will be divided into three winners of a contest.
+The total amount will be distributed as follows:
+ - The first winner will receive 46%;
+ - The second will receive 32%;
+ - The third will receive the remaining. 
+ Calculate and print the amount received for each winner. 
+
+13. Read four grades, calculate the arithmetic mean and print the result.
+
+14. Read an integer and print its predecesor and its successor.
+
+15. Read three values and display on the screen the result of the sum of their squares.
+
+16. A company hires at $30.00 a day. Implement a program that prompts the user for the number of days worked
+and prints the net amount to be paid, considering an 8% income tax deduction.
+
+17. Implement a program that converts a lowercase letter to a uppercase letter.
