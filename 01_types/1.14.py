@@ -1,12 +1,17 @@
 """
 Exercise 14:
-Read an integer and print its predecesor and its successor.
+A company hires at $30.00 a day. Implement a program that prompts the user for the number of days worked
+and prints the net amount to be paid, considering an 8% income tax deduction.
 
 (PT-BR)
 Exercício 14:
-Leia um numero inteiro e imprima o seu antecessor e o seu sucessor.
+Uma empresa contrata a R$ 30,00 por dia. Faça um programa que solicite
+o número de dias trabalhandos pelo encanador e imprima a quantia líquida
+que deverá ser paga, sabendo-se que são descontados 8% para imposto de renda
 """
 
-N = int(input("Enter an integer: "))
+days = int(input('Number of days worked: '))
 
-print(f"The predecesor is {N-1}, and the successor is {N+1}.")
+amount = 30*days
+
+print(0.92*amount)

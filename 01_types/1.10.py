@@ -1,18 +1,27 @@
 """
 Exercise 10:
-Read a velocity in km/h and display it on the screen converted in m/s.
-The conversion formula is M = K/3.6, where K is the velocity in km/h 
-and M is in m/s.
+The amount of $780,000.00 will be divided into three winners of a contest.
+The total amount will be distributed as follows:
+ - The first winner will receive 46%;
+ - The second will receive 32%;
+ - The third will receive the remaining. 
+ Calculate and print the amount received for each winner. 
 
 (PT-BR)
 Exercício 10:
-Leia uma velocidade em km/h e apresente-a convertida em m/s.
-A fórmula de conversão é M = K/3.6, sendo K a velocidade em km/h
-e M em m/s.
+A importancia de R$ 780.000,00 será dividida entre três ganhadores
+de um concurso. Sendo que a quantia total:
+ - O primeiro ganhador receberá 46%;
+ - O segundo receberá 32%;
+ - O terceiro receberá o restante;
+ Calcule e imprima a quantia ganha por cada um dos ganhadores;
 """
 
-K = float(input("Enter a velocity in km/h: "))
+M = 780000
 
-M = K/3.6
+# 46 + 32 = 78,
+# 100-78 = 22
 
-print(M)
+print(f'The first one received: {M*0.46}')
+print(f'The second one received: {M*0.32}')
+print(f'The third one received: {M*0.22}')

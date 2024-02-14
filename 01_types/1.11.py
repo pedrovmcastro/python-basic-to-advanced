@@ -1,18 +1,13 @@
 """
 Exercise 11:
-Read a distance in miles and display it on the screen converted in kilometers.
-The conversion formula is: K = 1.61 * M, where K is the distance in kilometers
-and M is in miles. 
+Read four grades, calculate the arithmetic mean and print the result. 
 
 (PT-BR)
 Exercício 11:
-Leia uma distância em milhas e apresente-a convertida em quilômetros.
-A fórmula de conversão é: K = 1.61 * M, sendo K a distancia em quilômetros
-e M em milhas.
+Leia quatro notas, calcule a media aritmetica e imprima o resultado.
 """
 
-M = float(input("Enter a distance in miles: "))
+print("Enter four grades (one per line):")
+n1, n2, n3, n4 = float(input()), float(input()), float(input()), float(input())
 
-K = 1.61*M
-
-print(K)
+print((n1+n2+n3+n4)/4)

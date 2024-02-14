@@ -1,18 +1,18 @@
 """
 Exercise 9:
-Read a temperature in Kelvin and display it on the screen converted in Celsius.
-The conversion formula is: C = K - 273.15, where C is the temperature in Celsius
-and K is the temperature in Kelvin.
+Read a distance in miles and display it on the screen converted in kilometers.
+The conversion formula is: K = 1.61 * M, where K is the distance in kilometers
+and M is in miles. 
 
 (PT-BR)
 Exercício 9:
-Leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius.
-A fórmula de conversão é: C = K - 273.15, sendo C a temperatura em Celsius e K
-a temperatura em Kelvin.
+Leia uma distância em milhas e apresente-a convertida em quilômetros.
+A fórmula de conversão é: K = 1.61 * M, sendo K a distancia em quilômetros
+e M em milhas.
 """
 
-K = float(input("Enter a temperature in Kelvin: "))
+M = float(input("Enter a distance in miles: "))
 
-C = K - 273.15
+K = 1.61*M
 
-print(C)
+print(K)

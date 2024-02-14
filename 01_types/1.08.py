@@ -1,18 +1,18 @@
 """
 Exercise 8:
-Read a temperature in Celsius and display it on the screen converted to Kelvin.
-The conversion formula is: K = C + 273.15, where C is the temperature in Celsius
-and K is the temperature in Kelvin.
+Read a velocity in km/h and display it on the screen converted in m/s.
+The conversion formula is M = K/3.6, where K is the velocity in km/h 
+and M is in m/s.
 
 (PT-BR)
 Exercício 8:
-Leia uma temperatura em graus Celsius e apresente-a convertida em graus Kelvin.
-A fórmula de conversão é: K = C + 273.15, sendo C a temperatura em Celsius e K
-a temperatura em Kelvin.
+Leia uma velocidade em km/h e apresente-a convertida em m/s.
+A fórmula de conversão é M = K/3.6, sendo K a velocidade em km/h
+e M em m/s.
 """
 
-C = float(input("Enter a temperature in Celsius: "))
+K = float(input("Enter a velocity in km/h: "))
 
-K = C + 273.15
+M = K/3.6
 
-print(K)
+print(M)
