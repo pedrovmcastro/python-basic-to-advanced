@@ -1,9 +1,9 @@
 """
-Exercise 13:
+Exercise 10:
 Read three values and display on the screen the result of the sum of their squares.  
 
 (PT-BR)
-Exercício 13:
+Exercício 10:
 Faça a leitura de três valores e apresente como resultado
 a soma dos quadrados dos três valores lidos
 """

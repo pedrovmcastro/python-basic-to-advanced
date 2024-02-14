@@ -1,5 +1,5 @@
 """
-Exercise 10:
+Exercise 7:
 The amount of $780,000.00 will be divided into three winners of a contest.
 The total amount will be distributed as follows:
  - The first winner will receive 46%;
@@ -8,7 +8,7 @@ The total amount will be distributed as follows:
  Calculate and print the amount received for each winner. 
 
 (PT-BR)
-Exercício 10:
+Exercício 7:
 A importancia de R$ 780.000,00 será dividida entre três ganhadores
 de um concurso. Sendo que a quantia total:
  - O primeiro ganhador receberá 46%;

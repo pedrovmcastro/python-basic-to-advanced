@@ -1,9 +1,9 @@
 """
-Exercise 12:
+Exercise 9:
 Read an integer and print its predecesor and its successor.
 
 (PT-BR)
-Exercício 12:
+Exercício 9:
 Leia um numero inteiro e imprima o seu antecessor e o seu sucessor.
 """
 

@@ -1,9 +1,9 @@
 """
-Exercise 15:
+Exercise 12:
 Implement a program that converts a lowercase letter to a uppercase letter.
 
 (PT-BR)
-Exercício 15:
+Exercício 12:
 Faça um programa para converter uma letra minuscula em maiuscula.
 """
 

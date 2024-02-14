@@ -1,0 +1,35 @@
+1. Faça um programa que leia um número inteiro e imprima.
+
+2. Faça um programa que leia um numero real e imprima.
+
+3. Peça ao usuario para digitar 3 numeros inteiros e imprima a soma deles.
+
+4. Leia um numero real e imprima o resultado do quadrado desse número.
+
+5. Leia uma temperatura em graus Celsius e apresente-a convertida
+em Fahrenheit. A fórmula de conversão é: F = C*(9.0/5.0)+32.0,
+sendo C a temperatura em Celsius e F a temperatura em Farenheit.
+
+6. Leia uma velocidade em km/h e apresente-a convertida em m/s.
+A fórmula de conversão é M = K/3.6, sendo K a velocidade em km/h
+e M em m/s.
+
+7. A importancia de R$ 780.000,00 será dividida entre três ganhadores
+de um concurso. Sendo que a quantia total:
+ - O primeiro ganhador receberá 46%;
+ - O segundo receberá 32%;
+ - O terceiro receberá o restante;
+Calcule e imprima a quantia ganha por cada um dos ganhadores;
+
+8. Leia quatro notas, calcule a media aritmetica e imprima o resultado.
+
+9. Leia um numero inteiro e imprima o seu antecessor e o seu sucessor.
+
+10. Faça a leitura de três valores e apresente como resultado
+a soma dos quadrados dos três valores lidos.
+
+11. Uma empresa contrata a R$ 30,00 por dia. Faça um programa que solicite
+o número de dias trabalhandos pelo encanador e imprima a quantia líquida
+que deverá ser paga, sabendo-se que são descontados 8% para imposto de renda.
+
+12. Faça um programa para converter uma letra minuscula em maiuscula.

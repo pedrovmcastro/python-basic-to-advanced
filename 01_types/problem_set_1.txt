@@ -1,0 +1,33 @@
+1. Implement a program that prompts the user for an integer and prints it.
+
+2. Implement a program that prompts the user for a real number and prints it.
+
+3. Implement a program that prompts the user for 3 integers and prints their sum.
+
+4. Implement a program that prompts the user for a real number and prints its square.
+
+5. Read a temperature in Celsius and display it on the screen converted to Fahrenheit.
+The conversion formula is: F = C*(9.0/5.0)+32.0, where C is the temperature in Celsius
+and F is the temperature converted in Fahrenheit.
+
+6. Read a velocity in km/h and display it on the screen converted in m/s.
+The conversion formula is M = K/3.6, where K is the velocity in km/h 
+and M is in m/s.
+
+7. The amount of $780,000.00 will be divided into three winners of a contest.
+The total amount will be distributed as follows:
+ - The first winner will receive 46%;
+ - The second will receive 32%;
+ - The third will receive the remaining. 
+ Calculate and print the amount received for each winner. 
+
+8. Read four grades, calculate the arithmetic mean and print the result.
+
+9. Read an integer and print its predecesor and its successor.
+
+10. Read three values and display on the screen the result of the sum of their squares.
+
+11. A company hires at $30.00 a day. Implement a program that prompts the user for the number of days worked
+and prints the net amount to be paid, considering an 8% income tax deduction.
+
+12. Implement a program that converts a lowercase letter to a uppercase letter.

@@ -1,9 +1,9 @@
 """
-Exercise 11:
+Exercise 8:
 Read four grades, calculate the arithmetic mean and print the result. 
 
 (PT-BR)
-Exercício 11:
+Exercício 8:
 Leia quatro notas, calcule a media aritmetica e imprima o resultado.
 """
 
