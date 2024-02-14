@@ -1,0 +1,53 @@
+Exercício 1:
+Faça um programa que receba dois números e mostre qual deles é o maior.
+
+Exercício 2:
+Leia um número fornecido pelo usuário. Se esse número for positivo, calcule a raiz quadrada do número.
+Se o número for negativo, mostre uma mensagem dizendo que o número é inválido.
+
+Exercício 3:
+Faça um programa que leia 2 notas de um aluno, verifique se as notas são válidas e exiba na tela a média dessas notas.
+Uma nota válida deve ser, obrigatoriamente, um valor entre 0.0 e 10.0, onde caso a nota não possua um valor válido, 
+este fato deve ser informado ao usuário e o programa termina.
+
+Exercício 4:
+Leia o salário de um trabalhador e o valor da prestação de um empréstimo.
+Se a prestação for maior que 20% do salário imprima: Empréstimo não concedido, caso contrário imprime: Empréstimo concedido.
+
+Exercício 5:
+Faça um programa que receba a altura e o sexo de uma pessoa (M/F) e calcule e mostre seu peso ideal,
+utilizando as seguintes fórmulas (onde h corresponde à altura):
+    - Homens: (72.7 * h) - 58
+    - Mulheres: (62.1 * h) - 44.7
+
+Exercício 6:
+Usando match, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana
+correspondente a este número. Isto é, domingo se 1, segunda-feira se 2, e assim por diante.
+
+Exercício 7:
+Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo
+e, se forem, se é um triângulo escaleno, equilátero ou isóscele, considerando os seguintes conceitos:
+ - O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
+ - Chama-se equilátero o triângulo que tem o comprimento de dois lados iguais.
+ - Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
+
+Exercício 8:
+Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar.
+As condições para aposentadoria são
+    - Ter pelo menos 65 anos.
+    - Ou ter trabalhado pelo menos 30 anos,
+    - Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos.
+
+Exercício 9:
+Faça um programa que mostre ao usuário um menu com 4 opções de operações matemáticas (as básicas, por exemplo).
+O usuário escolhe uma das opções e o seu programa então pede dois valores numéricos e realiza a operação, mostrando o resultado e saindo.
+
+Exercício 10:
+A nota final de um estudante é calculada a partir de três notas atribuídas entre o intervalo de 0 até 10, respectivamente,
+a um trabalho de laboratório, a uma avaliação semestral e a um exame final. 
+A média das três notas mencionadas anteriormente obedece aos pesos: 
+    - Trabalho de Laboratório: 2;
+    - Avaliação Semestral: 3;
+    - Exame Final: 5.
+De acordo com o resultado, mostre na tela se o aluno está reprovado (média entre 0 e 2,9), de 
+recuperação (entre 3 e 4,9) ou se foi aprovado. Faça todas as verificações necessárias.
