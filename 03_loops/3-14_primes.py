@@ -12,6 +12,7 @@ num = int(input("Enter a number: "))
 
 if num <= 1: 
     print("Must be greater than 1")
+    is_prime = False
 else:
     is_prime = True
     for i in range(2, int(math.sqrt(num)) + 1):
