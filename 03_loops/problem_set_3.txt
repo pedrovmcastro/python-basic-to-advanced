@@ -1,0 +1,66 @@
+Exercise 1:
+Implement a program that prints on the screen, from 1 to 100, in increments of 1, twice. 
+The first time, use a for loop, and the second time, use a while loop.
+
+Exercise 2:
+Create a algorithm using a while loop and display a countdown on the screen,
+starting from 10 and ending at 0. Display a message "END!" after the countdown.
+
+Exercise 3:
+Implement a program that prompts the user to enter 10 values, calculates their sum, and displays it on the screen.
+
+Exercise 4:
+Create a program that reads 10 integers and prints their mean.
+
+Exercise 5:
+Write a program that reads 10 numbers and prints the minimum and maximum values read.
+
+Exercise 6:
+Write a program that reads a positive integer N and prints all even natural numbers from 0 to N in ascending order.
+
+Exercise 7:
+Implement a program that reads a positive number and prints its divisors.
+
+Exercise 8:
+Read a sequence of integers and determine if they are even or not. 
+The program should report the number of data points read and the number of even values. 
+The process ends when the number 1000 is entered.
+
+Exercise 9:
+Create a program that reads an indeterminate number of ages of individuals (stop when the age 0 is entered)
+and calculates the average age of this group.
+
+Exercise 10:
+Read a positive number from the user, then calculate and print the Fibonacci sequence
+until the first number greater than the one entered.
+Example: if the user entered the number 30, 
+the sequence to be printed will be 0 1 1 2 3 5 8 13 21 34
+
+Exercise 11:
+Create a program that presents a menu of options for the calculation of the following operations between two numbers:
+* addition (option 1)
+* subtraction (option 2)
+* multiplication (option 3)
+* division (option 4)
+* exit (option 5)
+The program should allow the user to choose the desired operation, display the result, and return to the menu of options. 
+The program only ends when the exit option is chosen (option 5).
+
+Exercise 12:
+Write a program that takes as input the amount of money withdrawn by a bank customer and returns how many notes
+of each value will be needed to fulfill the withdrawal with the minimum number of notes possible. 
+Notes of 100, 50, 20, 10, 5, 2, and 1 are available.
+
+Exercise 13:
+Write a program that reads a positive integer n and then prints n lines of the so-called Floyd's Triangle. 
+For n = 6, we have:
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 21
+
+Exercise 14:
+Create a program that receives an integer greater than 1 and checks whether the provided number is prime or not.

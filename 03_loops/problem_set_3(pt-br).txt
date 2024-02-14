@@ -1,0 +1,69 @@
+Exercício 1:
+Escreva um programa que escreva na tela, de 1 a 100, de 1 em 1, 2 vezes.
+A primeira vez deve usar a estrutura de repetição for, a segunda while.
+
+Exercício 2:
+Faça um algoritmo utilizando o comando while que mostre uma contagem regressiva na tela,
+iniciando em 10 e terminando em 0. Mostrar uma mensagem 'FIM!' após a contagem.
+
+Exercício 3:
+Faça um programa que peça ao usuário para digitar 10 valores e some-os. Imprima a soma na tela.
+
+Exercício 4
+Faça um programa que leia 10 inteiros e imprima sua media.
+
+Exercício 5:
+Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido.
+
+Exercício 6:
+Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais
+pares de 0 até N em ordem crescente.
+
+Exercício 7:
+Faça um algoritmo que leia um número positivo e imprima seus divisores.
+
+Exercício 8:
+Ler uma sequencia de números inteiros e determinar se eles são pares
+ou não. Deverá ser informado o número de dados lidos e números de
+valores pares. O processo termina quando for digitado o número 1000.
+
+Exercício 9:
+Faça um programa que leia um numero indeterminado de idades de individuos (pare quando for informada a idade 0),
+e calcule a idade media desse grupo.
+
+Exercício 10:
+Leia um número positivo do usuário, então, calcule e imprima a
+sequencia Fibonacci até o primeiro número superior ao número lido.
+Exemplo: se o usuario informou o numero 30,
+a sequencia a ser impresa será 0 1 1 2 3 5 8 13 21 34
+
+Exercício 11:
+Faça um programa que apresente um menu de opções para o
+cálculo das seguintes operações entre dois números:
+* adição (opção 1)
+* subtração (opção 2)
+* multiplicação (opção 3)
+* divisão (opção 4)
+* saída (opção 5)
+O programa deve possibilitar ao usuario a escolha da operação desejada,
+a exibição do resultado e a volta ao menu de opções. O programa só termina quando for escolhida a opção de saída
+(opção 5).
+
+Exercício 12:
+Escreva um programa que receba como entrada o valor do saque realizado pelo cliente
+de um banco e retorne quantas notas de cada valor serão necessárias para atender ao saque
+com a menor quantidade de notas possível. Serão utilizadas notas de 100, 50, 20, 10, 5, 2 e 1 real.
+
+Exercício 13:
+Escreva um programa que leia um numero inteiro positivo n e em seguida imprima n
+linhas do chamado Triangulo de Floyd. Para n = 6, temos:
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 21
+
+Exercício 14:
+Faça um prorgama que recebe um inteiro maior do que 1 e checa se o número é primo ou não.
