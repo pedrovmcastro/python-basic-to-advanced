@@ -1,30 +1,23 @@
 """
 Exercise 8:
-Create a program that presents the user with a menu containing 4 options of mathematical operations (the basic ones, for example). 
-The user chooses one of the options, and your program then prompts for two numerical values, performs the operation, displays the result, and exits.
+Read the age and length of service of a worker and prints whether they can retire or not. The retirement conditions are:
+    - Being at least 65 years old.
+    - Or having worked at least 30 years.
+    - Or being at least 60 years old and having worked at least 25 years.
 
 Exercício 8 (PT-BR):
-Faça um programa que mostre ao usuário um menu com 4 opções de operações matemáticas (as básicas, por exemplo).
-O usuário escolhe uma das opções e o seu programa então pede dois valores numéricos e realiza a operação, mostrando o resultado e saindo.
+Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar.
+As condições para aposentadoria são
+    - Ter pelo menos 65 anos.
+    - Ou ter trabalhado pelo menos 30 anos,
+    - Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos.
 """
 
-print("-="*10 + " BASIC OPERATIONS " + "-="*10)
-print("|" + " "*21 + "+, -, * or /. " +  " "*21 + "|")
-print("-="*29)
+age = int(input("Age: "))
+leng = int(input("Lenght of service: "))
 
-op = input("Operation: ")
-
-if op in "+-*/":
-    num1 = float(input("Enter the first numerical value: "))
-    num2 = float(input("Enter the second numerical value: "))
-    match op:
-        case "+":
-            print(f"Result: {(num1 + num2):.2f}")
-        case "-":
-            print(f"Result: {(num1 - num2):.2f}")
-        case "*":
-            print(f"Result: {(num1 * num2):.2f}")
-        case "/":
-            print(f"Result: {(num1 / num2):.2f}")
+if age >= 65 or leng >= 30 or (age >= 60 and leng >= 25):
+    print("Can retire")
 else:
-    print("Invalid operation.")
+    print("Can't retire")
+    
