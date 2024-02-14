@@ -1,11 +1,9 @@
 """
-Exercise:
+Exercise 4:
+Read an array of 10 positions. Count and write how many even values it contains.
 
 (PT-BR)
-Exercício:
-
-"""
-"""
+Exercício 4:
 Leia um vetor de 10 posições.
 Contar e escrever quantos valores pares ele possui.
 """
@@ -15,9 +13,9 @@ for i in range(10):
     N = int(input())
     vet.append(N)
 
-cont = 0
+count = 0
 for valor in vet:
     if valor % 2 == 0:
-        cont += 1
+        count += 1
 
-print(cont)
+print(count)

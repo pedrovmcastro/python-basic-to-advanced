@@ -1,0 +1,97 @@
+Exercício 1:
+Faça um programa que possua um vetor denominado A que armazene 6 números.
+O programa deve executar os seguintes passos:
+(a) Atribua os seguintes valores a esse vetor: 1, 0, 5, -2, -5, 7.
+(b) Armazene em uma variável inteira (simples) a soma entre os valores das posições
+A[0], A[1] e A[5] do vetor e mostre na tela esta soma.
+(c) Modifique o vetor na posição 4, atribuindo a esta posição o valor 100.
+(d) Mostre na tela cada valor do vetor A, um em cada linha.
+
+Exercício 2:
+Crie um programa que lê 6 valores inteiros e, em seguida, mostre
+na tela os valores lidos.
+
+Exercício 3:
+Ler um conjunto de números reais, armazenando-os em vetor e calcular o quadrado
+das componentes deste vetor, armazenando o resultado em outro vetor.
+os conjuntos têm 10 elementos cada. imprimir todos os conjuntos.
+
+Exercício 4:
+Leia um vetor de 10 posições.
+Contar e escrever quantos valores pares ele possui.
+
+Exercício 5:
+Faça um programa que receba do usuário um vetor com 10 posições.
+Em seguida deverá ser impresso o maior e o menor elemento do vetor.
+
+Exercício 6:
+Fazer um programa para ler 10 valores e, em seguida, mostrar a posição
+onde se encontram o maior e o menor valor (caso haja mais de uma ocorrência do maior ou menor valor,
+mostrar todas posições).
+
+Exercício 7:
+Faça um programa que leia um vetor de 10 posições e verifique se existem valores iguais e os escreva na tela.
+
+Exercício 8:
+Leia um vetor com 10 números inteiros. Escreva os elementos do vetor eliminando elementos repetidos.
+
+Exercício 9:
+Faça um programa que receba do usuário dois vetores, A e B, com 10 números inteiros cada.
+Crie um vetor denominado C calculando C = A - B. Mostre na tela os dados do vetor C
+
+Exercício 10:
+Leia uma matriz de 3x3 elementos. Calcule a soma dos elementos que estão acima da diagonal principal, a soma dos
+elementos que estão abaixo da diagonal principal, e a soma dos elementos que estão na diagonal principal.
+
+Exercício 11:
+Leia uma matriz 5x10 que se refere respostas de 10 questões de múltipla escolha, referente a 5 alunos.
+Leia também um vetor de 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d. Seu programa
+deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor denominado resultado, contendo
+a pontuação correspondente a cada aluno
+
+Exercício 12:
+Leia uma matriz de 3x3 elementos. Calcule a soma dos elementos que estão na diagonal secundária
+
+Exercício 13:
+Leia uma matriz de 3x3 elementos. Calcule e imprima a sua transposta
+
+Exercício 14:
+Faça um programa para gerar automaticamente números entre 0 e 99 de uma cartela de bingo. Sabendo que
+cada cartela deverá conter 5 linhas de 5 números, gere estes dados de modo a não ter números repetidos dentro das
+cartelas. O programa deve exibir na tela a cartela gerada
+
+Exercício 15:
+Ler dois conjuntos de números reais, armazenando-os em vetores e calcular o produto escalar entre eles.
+Os conjuntos têm 5 elementos cada. Imprimir os dois conjuntos e o produto escalar, sendo que o produto escalar
+é dado por x1*y1 + x2*y2 + ... + xn*yn
+
+Exercício 16:
+Faça um programa que leia dez conjuntos de dois valores, o primeiro representando
+o número do aluno e o segundo representando a sua altura em metros. Encontre o aluno mais baixo
+e o mais alto. Mostre o número do aluno miais baixo e do mais alto, juntamente com suas alturas
+
+Exercício 17:
+Leia dois vetores de inteiros x e y, cada um com 5 elementos(assuma que o usuário não informa
+elementos repetidos). Calcule e mostre os vetores resultantes em cada caso abaixo:
+    -> Soma entre x e y: soma de cada elemento de x com o elemento da mesma posição em y;
+    -> Produto entre x e y: multiplicação de cada elemento de x com o elemento da mesma posição em y;
+    -> Diferença entre x e y: todos os elementos de x que não existem em y;
+    -> Intersecção entre x e y: apenas os elementos que aparecem nos dois vetores;
+    -> União entre x e y: todos os elementos de x, e todos os elementos de y que não estão em x.
+
+Exercício 18:
+Faça um programa que leia um vetor de 15 posições e o compacte, ou seja, elimine as posições com
+valor zero. Para isso, todos os elementos à frente do valor zero, devem ser movidos uma posição para
+trás no vetor
+
+Exercício 19:
+Faça um programa para ler 10 números DIFERENTES a serem armazenados em um vetor.Os dados deverão ser armazenados
+no vetor na ordem que forem sendo lidos, sendo que caso o usuário digite um número que já foi digitado anteriormente,
+o programa deverá pedir para ele digitar outro número. Note que cada valor digitado pelo usuário deve ser pesquisado
+no vetor, verificando se ele existe entre os números que já foram fornecidos. Exibir na tela o vetor final que foi
+digitado.
+
+Exercício 20:
+Considere um vetor A com 11 elementos onde A1 < A2 < ... < A6 > A7 > A8 > ... > A11, ou seja, está
+ordenado em ordem crescente até o sexto elemento, e a partir desse elemento está ordenado em ordem decrescente.
+Proponha um algoritmo para ordenar os elementos.

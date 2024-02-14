@@ -1,0 +1,93 @@
+Exercise 1:
+Create a program that has an array named A to store 6 numbers.
+The program should perform the following steps:
+(a) Assign the following values to this array: 1, 0, 5, -2, -5, 7.
+(b) Store in a simple integer variable the sum of the values at positions A[0], A[1], and A[5] of the array and display this sum on the screen.
+(c) Modify the array at position 4, assigning the value 100 to this position.
+(d) Display on the screen each value of array A, one on each line.
+
+Exercise 2:
+Create a program that reads 6 integer values and then displays them on the screen.
+
+Exercise 3:
+Read a set of real numbers, store them in an array, and calculate the square of the components of this array, storing the results in another array. 
+Both sets have 10 elements each. Print both sets.
+
+Exercise 4:
+Read an array of 10 positions. Count and write how many even values it contains.
+
+Exercise 5:
+Create a program that receives from the user an array with 10 positions. 
+Next, the program should print the largest and smallest elements of the array.
+
+Exercise 6:
+Create a program to read 10 values and then show the position(s) where the maximum and minimum values are located. 
+If there are multiple occurrences of the maximum or minimum value, show all positions.
+
+Exercise 7:
+Implement a program that reads an array of 10 positions and checks if there are equal values, then displays them on the screen.
+
+Exercise 8:
+Read an array with 10 integer numbers. Write the elements of the array, eliminating duplicate elements.
+
+Exercise 9:
+Create a program that receives from the user two arrays, A and B, each with 10 integer numbers. 
+Create an array named C by calculating C = A - B. Display the data of array C on the screen.
+
+Exercise 10:
+Read a 3x3 matrix. Calculate the sum of the elements above the main diagonal, the sum of the elements below the main diagonal, 
+and the sum of the elements on the main diagonal.
+
+Exercise 11:
+Read a 5x10 matrix representing the answers to 10 multiple-choice questions for 5 students. 
+Also, read an array of 10 positions containing the answer key, where the answers can be 'a', 'b', 'c', or 'd'.
+Your program should compare each student's answers with the answer key and generate an array named "results" 
+containing the corresponding scores for each student.
+
+Exercise 12:
+Read a 3x3 matrix. Calculate the sum of the elements on the secondary diagonal.
+
+Exercise 13:
+Read a 3x3 matrix. Calculate and print its transpose.
+
+Exercise 14:
+Generate numbers automatically between 0 and 99 for a bingo card. Each card should contain 5 rows of 5 numbers,
+and the data should be generated in a way that there are no repeated numbers within the cards. The program should
+display the generated card on the screen.
+
+Exercise 15:
+Read two sets of real numbers, store them in arrays, and calculate their dot product.
+Both sets have 5 elements each. Print the two sets and the dot product, where the dot product
+is given by x1*y1 + x2*y2 + ... + xn*yn.
+
+Exercise 16:
+Create a program that reads ten sets of two values, where the first represents the student number
+and the second represents their height in meters. Find the tallest and shortest students.
+Display the student number and height for the tallest and shortest students.
+
+Exercise 17:
+Read two arrays of integers, x and y, each with 5 elements (assume that the user does not input repeated elements).
+Calculate and display the resulting arrays in each of the following cases:
+    -> Sum between x and y: sum of each element in x with the element at the same position in y;
+    -> Product between x and y: multiplication of each element in x with the element at the same position in y;
+    -> Difference between x and y: all elements in x that do not exist in y;
+    -> Intersection between x and y: only the elements that appear in both arrays;
+    -> Union between x and y: all elements in x, and all elements in y that are not in x.
+
+Exercise 18:
+Create a program that reads an array of 15 positions and compresses it, eliminating positions with
+a value of zero. To do this, all elements ahead of the zero value must be moved one position back in the array.
+
+Exercise 19:
+Create a program to read 10 DIFFERENT numbers to be stored in an array.
+The data should be stored in the array in the order they are read.
+If the user enters a number that has already been entered, the program should ask them to enter another number.
+Note that each value entered by the user must be searched in the array to check if it already exists among the numbers provided.
+Display the final array that was entered on the screen.
+
+Exercise 20:
+Consider an array A with 11 elements where A1 < A2 < ... < A6 > A7 > A8 > ... > A11,
+meaning it is sorted in ascending order up to the sixth element and, from that point onward,
+it is sorted in descending order. Propose an algorithm to sort the elements.
+
+
