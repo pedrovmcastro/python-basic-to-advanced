@@ -1,8 +1,9 @@
-# Exercise 20:
-# Write a program that uses the zip function to create a list of tuples, where each tuple contains the name of a product and its price with a 10% discount.
+# Exercise 19:
+# Write a program that uses the zip function to create a list of tuples, where each tuple contains 
+# the name of a product and its price with a 10% discount.
 
 # (PT-BR)
-# Exercício 20:
+# Exercício 19:
 # Escreva um programa que use a função zip para criar uma lista de tuplas, onde cada tupla contém o nome de um produto 
 # e o seu preço com desconto de 10%.
 

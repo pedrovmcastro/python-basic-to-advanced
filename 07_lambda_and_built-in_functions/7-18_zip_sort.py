@@ -1,8 +1,8 @@
-# Exercise 19:
+# Exercise 18:
 # Write a program that uses the zip function to sort two lists in ascending order based on the values of the first list.
 
 # (PT-BR)
-# Exercício 19:
+# Exercício 18:
 # Escreva um programa que use a função zip para ordenar duas listas em ordem crescente, de acordo com os valores da primeira lista.
 
 list1 = [3, 1, 4, 2, 5]

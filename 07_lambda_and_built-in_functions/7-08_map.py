@@ -1,9 +1,9 @@
-# Exercise 9:
+# Exercise 8:
 # Create a lambda function that takes two arguments and returns their sum. Use the map function to add elements from two lists of numbers
 # element-wise.
 
 # (PT-BR)
-# Exercício 9:
+# Exercício 8:
 # Crie uma função lambda que receba dois argumentos e retorne a soma deles. Use a função map para somar elementos de duas listas de números
 # elemento a elemento.
 

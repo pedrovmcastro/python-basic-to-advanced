@@ -1,8 +1,8 @@
-# Exercise 17:
+# Exercise 16:
 # Write a program that uses the zip function to transpose a matrix, i.e., swap the rows with the columns.
 
 # (PT-BR)
-# Exercício 17:
+# Exercício 16:
 # Escreva um programa que use a função zip para transpor uma matriz, ou seja, trocar as linhas pelas colunas.
 
 # Example input

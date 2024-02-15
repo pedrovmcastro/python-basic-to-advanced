@@ -1,0 +1,97 @@
+Exercícios 7 - LAMBDA AND BUILT-IN FUNCTIONS
+
+
+# Exercício 1]:
+# Crie uma função lambda que dobre um número e use-a para dobrar os elementos de uma lista.
+
+
+# Exercício 2]:
+# Ordene uma lista de números inteiros em ordem crescente usando a função sort.
+
+
+# Exercício 3]:
+# Ordene uma lista de palavras em ordem alfabética inversa (da Z para A) 
+# usando a função sort com um argumento de chave (key).
+
+
+# Exercício 4]:
+# Crie uma função lambda que retorne True se um número for par e False caso contrário. 
+# Use essa função para filtrar os números pares em uma lista.
+
+
+# Exercício 5]:
+# Ordene uma lista de strings com base no comprimento de cada string, do menor para o maior, usando a função sorted.
+
+
+# Exercício 6]:
+# Ordene uma lista de dicionários com base em um valor específico de cada dicionário usando a função sorted.
+
+
+# Exercício 7]:
+# Crie uma função lambda que retorne a última letra de uma string e use-a para ordenar uma lista de palavras com base na última letra
+# de cada palavra usando a função sort.
+
+
+# Exercício 8]:
+# Crie uma função lambda que receba dois argumentos e retorne a soma deles. Use a função map para somar elementos de duas listas de números
+# elemento a elemento.
+
+
+# Exercício 9]:
+# Dada uma lista de palavras, escreva um código em Python que use expressões lambda, map e sorted para classificar as palavras
+# com base no número de vogais em cada palavra, em ordem decrescente. Ou seja, as palavras com mais vogais devem aparecer primeiro na lista.
+
+
+# Exercício 10]:
+# Escreva uma função em Python que use filter() para retornar uma lista com os números primos de uma lista dada de inteiros.
+# Por exemplo, se a lista for [2, 3, 4, 5, 6, 7], a função deve retornar [2, 3, 5, 7].
+
+
+# Exercício 11]:
+# Escreva uma função que use filter() para retornar uma lista com os números pares de uma lista dada. 
+# Por exemplo, se a lista for [1, 2, 3, 4, 5], a função deve retornar [2, 4].
+
+
+# Exercício 12]:
+# Escreva uma função que use filter() para retornar uma lista com as palavras que começam com a letra ‘a’ de uma lista dada. 
+# Por exemplo, se a lista for ['maça', 'banana', 'pera', 'damasco', 'abacate'], a função deve retornar [‘abacate'].
+
+
+# Exercício 13]:
+# Escreva uma função que use filter() para retornar uma lista com as palavras que são palíndromos de uma lista dada. 
+# Um palíndromo é uma palavra que é igual quando lida de trás para frente. 
+# Por exemplo, se a lista for [‘ana’, ‘bola’, ‘casa’, ‘arara’], a função deve retornar [‘ana’, ‘arara’].
+
+
+# Exercício 14]:
+# Escreva uma função que use filter() para retornar uma lista com os números que são perfeitos de uma lista dada. 
+# Um número é perfeito se a soma dos seus divisores próprios (excluindo ele mesmo) é igual a ele. 
+# Por exemplo, 6 é perfeito porque 6 = 1 + 2 + 3. Se a lista for [6, 12, 28, 30], a função deve retornar [6, 28].
+
+
+# Exercício 15]:
+# Escreva um programa que use a função zip para criar um dicionário a partir de duas listas,
+# onde as chaves são os nomes dos países e os valores são as suas capitais.
+
+
+# Exercício 16]:
+# Escreva um programa que use a função zip para transpor uma matriz, ou seja, trocar as linhas pelas colunas.
+
+
+# Exercício 17]:
+# Escreva um programa que use a função zip para calcular a média de cada aluno em uma turma, 
+# dadas as notas de três provas.
+
+
+# Exercício 18]:
+# Escreva um programa que use a função zip para ordenar duas listas em ordem crescente, de acordo com os valores da primeira lista.
+
+
+# Exercício 19]:
+# Escreva um programa que use a função zip para criar uma lista de tuplas, onde cada tupla contém o nome de um produto 
+# e o seu preço com desconto de 10%.
+
+
+# Exercício 20]:
+# Escreva um programa que use a função zip para criar uma lista de strings, 
+# onde cada string é a concatenação dos elementos de duas listas de caracteres.

@@ -1,9 +1,9 @@
-# Exercise 16:
+# Exercise 15:
 # Write a program that uses the zip function to create a dictionary from two lists,
 # where the keys are the country names and the values are their capitals.
 
 # (PT-BR)
-# Exercício 16:
+# Exercício 15:
 # Escreva um programa que use a função zip para criar um dicionário a partir de duas listas,
 # onde as chaves são os nomes dos países e os valores são as suas capitais.
 

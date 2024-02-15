@@ -1,9 +1,9 @@
-# Exercise 21:
+# Exercise 20:
 # Write a program that uses the zip function to create a list of strings, 
 # where each string is the concatenation of elements from two lists of characters.
 
 # (PT-BR)
-# Exercício 21:
+# Exercício 20:
 # Escreva um programa que use a função zip para criar uma lista de strings, 
 # onde cada string é a concatenação dos elementos de duas listas de caracteres.
 

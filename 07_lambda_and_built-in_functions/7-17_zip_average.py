@@ -1,9 +1,9 @@
-# Exercise 18:
+# Exercise 17:
 # Write a program that uses the zip function to calculate the average of each student in a class, 
 # given the grades of three exams.
 
 # (PT-BR)
-# Exercício 18:
+# Exercício 17:
 # Escreva um programa que use a função zip para calcular a média de cada aluno em uma turma, 
 # dadas as notas de três provas.
 

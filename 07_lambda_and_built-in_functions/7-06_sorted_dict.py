@@ -1,8 +1,8 @@
-# Exercise 5:
+# Exercise 6:
 # Sort a list of dictionaries based on a specific value from each dictionary using the sorted function.
 
 # (PT-BR)
-# Exercício 5:
+# Exercício 6:
 # Ordene uma lista de dicionários com base em um valor específico de cada dicionário usando a função sorted.
 
 people = [

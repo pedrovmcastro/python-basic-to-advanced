@@ -1,0 +1,98 @@
+Problem Set 7 - LAMBDA AND BUILT-IN FUNCTIONS
+
+
+# Exercise 1] double:
+# Create a lambda function that doubles a number and use it to double the elements of a list.
+
+
+# Exercise 2] ascending:
+# Sort a list of integers in ascending order using the sort function.
+
+
+# Exercise 3] reverse:
+# Sort a list of words in reverse alphabetical order (from Z to A) using the sort function
+# with a key argument.
+
+
+# Exercise 4] filter 1:
+# Create a lambda function that returns True if a number is even and False otherwise. 
+# Use this function to filter the even numbers in a list.
+
+
+# Exercise 5] sorted list:
+# Sort a list of strings based on the length of each string, from shortest to longest, using the sorted function.
+
+
+# Exercise 6] sorted dict:
+# Sort a list of dictionaries based on a specific value from each dictionary using the sorted function.
+
+
+# Exercise 7] last letter:
+# Create a lambda function that returns the last letter of a string and use it to sort a list of words based on the last letter
+# of each word using the sort function.
+
+
+# Exercise 8] map:
+# Create a lambda function that takes two arguments and returns their sum. Use the map function to add elements from two lists of numbers
+# element-wise.
+
+
+# Exercise 9] vowels:
+# Given a list of words, write Python code that uses lambda expressions, map, and sorted to sort the words based on the number of vowels in each word,
+# in descending order. In other words, words with more vowels should appear first in the list.
+
+
+# Exercise 10] primes:
+# Write a Python function that uses filter() to return a list with the prime numbers from a given list of integers.
+# For example, if the list is [2, 3, 4, 5, 6, 7], the function should return [2, 3, 5, 7].
+
+
+# Exercise 11] filter 2:
+# Write a function that uses filter() to return a list with the even numbers from a given list.
+# For example, if the list is [1, 2, 3, 4, 5], the function should return [2, 4].
+
+
+# Exercise 12] filter 3:
+# Write a function that uses filter() to return a list with words that start with the letter 'a' from a given list.
+# For example, if the list is ['apple', 'banana', 'pear', 'pineapple', 'apricot', 'avocado'], 
+# the function should return ['apple', 'apricot', 'avocado'].
+
+
+# Exercise 13] palindromes:
+# Write a function that uses filter() to return a list with words that are palindromes from a given list.
+# A palindrome is a word that is the same when read backward. 
+# For example, if the list is ['ana', 'ball', 'house', 'radar'], the function should return ['ana', 'radar'].
+
+
+# Exercise 14] perfet number:
+# Write a function that uses filter() to return a list with numbers that are perfect from a given list.
+# A number is perfect if the sum of its proper divisors (excluding itself) is equal to the number.
+# For example, 6 is perfect because 6 = 1 + 2 + 3. If the list is [6, 12, 28, 30], the function should return [6, 28].
+
+
+# Exercise 15] zip dict:
+# Write a program that uses the zip function to create a dictionary from two lists,
+# where the keys are the country names and the values are their capitals.
+
+
+# Exercise 16] zip matrix:
+# Write a program that uses the zip function to transpose a matrix, i.e., swap the rows with the columns.
+
+
+# Exercise 17] zip average:
+# Write a program that uses the zip function to calculate the average of each student in a class, 
+# given the grades of three exams.
+
+
+# Exercise 18] zip sort:
+# Write a program that uses the zip function to sort two lists in ascending order based on the values of the first list.
+
+
+# Exercise 19] zip tuples:
+# Write a program that uses the zip function to create a list of tuples, where each tuple contains 
+# the name of a product and its price with a 10% discount.
+
+
+# Exercise 20] zip concat:
+# Write a program that uses the zip function to create a list of strings, 
+# where each string is the concatenation of elements from two lists of characters.
