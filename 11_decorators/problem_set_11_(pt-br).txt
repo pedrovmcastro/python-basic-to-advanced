@@ -1,0 +1,55 @@
+Exercícios 11 - DECORATORS
+
+
+# Exercício 1]:
+# Crie uma função de alta ordem chamada aplica_funcao que recebe uma função funcao e uma lista dados e retorna 
+# uma lista com a aplicação da função em cada elemento da lista.
+
+
+# Exercício 2]:
+# Implemente uma função chamada filtro que aceita uma função de filtro e uma lista,
+# e retorna uma lista apenas com os elementos que satisfazem a condição da função de filtro.
+
+
+# Exercício 3]:
+# Crie um decorador chamado memoize que armazena em cache os resultados de chamadas anteriores de uma função 
+# e retorna o resultado armazenado se a mesma entrada ocorrer novamente.
+
+
+# Exercício 4]:
+# Escreva uma função chamada compor que aceita duas funções e retorna uma nova função que é a composição das duas funções.
+
+
+# Exercício 5]:
+# Crie um decorador chamado verifica_argumentos que verifica se os argumentos passados para uma função estão corretos
+# de acordo com uma especificação dada. Por exemplo, se a função espera dois inteiros como argumentos, 
+# o decorador deve verificar se os argumentos são inteiros.
+
+
+# Exercício 6]:
+# Crie um decorator chamado tempo_execucao que mede o tempo de execução de uma função e exibe o tempo decorrido ao final da execução.
+
+
+# Exercício 7]:
+# Desenvolva uma função de alta ordem chamada filtro_composto que aceita uma lista de funções de filtro 
+# e uma lista de dados, e retorna uma lista apenas com os elementos que satisfazem todas as condições das funções de filtro.
+
+
+# Exercício 8]:
+# Crie um decorador chamado retry que permite que uma função seja executada novamente se ela lançar uma exceção específica. 
+# O número máximo de tentativas deve ser configurável.
+
+
+# Exercício 9]:
+# Crie um decorador chamado contador_chamadas que mantém o número de vezes que uma função foi chamada. 
+# Esse contador deve ser exibido ao final da execução da função.
+
+
+# Exercício 10]:
+# Escreva um decorator chamado @log que recebe um nome de arquivo como argumento e grava em um arquivo de texto a data, 
+# a hora, o nome e os argumentos da função sempre que ela for chamada.
+
+
+# Exercício 11]:
+# Crie um dicionário para salvar os nomes das funções chamadas e a quantidade de vezes que foi executada. 
+# Saída deve ser: {'funcao1': calls1, 'funcao2': calls2} 

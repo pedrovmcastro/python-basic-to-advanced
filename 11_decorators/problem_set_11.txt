@@ -1,0 +1,56 @@
+Set Problem 11 - DECORATORS
+
+
+# Exercise 1] apply:
+# Create a higher-order function called apply_function that takes a function function and a list data and returns 
+# a list with the application of the function to each element of the list.
+
+
+# Exercise 2] filter:
+# Implement a function called filter_func that takes a filter function and a list, and returns a list 
+# with only the elements that satisfy the filter function's condition.
+
+
+# Exercise 3] memoize:
+# Create a decorator called memoize that caches the results of previous calls to a function and returns the stored result
+# if the same input occurs again.
+
+
+# Exercise 4] composed:
+# Write a function called compose that takes two functions and returns a new function that is the composition of the two functions.
+
+
+# Exercise 5] check args:
+# Create a decorator called check_arguments that verifies if the arguments passed to a function are correct
+# according to a given specification. For example, if the function expects two integers as arguments, 
+# the decorator should check if the arguments are integers.
+
+
+# Exercise 6] execution time:
+# Create a decorator called execution_time that measures the execution time of a function 
+# and displays the elapsed time at the end of execution.
+
+
+# Exercise 7] compound filter:
+# Develop a higher-order function called compound_filter that takes a list of filter functions and a list of data,
+# and returns a list with only the elements that satisfy all the conditions of the filter functions.
+
+
+# Exercise 8] retry:
+# Create a decorator called retry that allows a function to be executed again if it raises a specific exception.
+# The maximum number of attempts should be configurable.
+
+
+# Exercise 9] calls 1:
+# Create a decorator called call_counter that keeps track of the number of times a function has been called. 
+# This counter should be displayed at the end of the function's execution.
+
+
+# Exercise 10] log:
+# Write a decorator called @log that takes a file name as an argument and writes to a text file the date, time, function name,
+# and arguments of the function every time it is called.
+
+
+# Exercise 11] calls 2:
+# Create a dictionary to save the names of the called functions and the number of times they were executed. 
+# The output should be: {'function1': calls1, 'function2': calls2}
