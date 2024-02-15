@@ -1,0 +1,13 @@
+Problem Set 10 - GENERATORS
+
+
+# Exercise 1] cubes:
+# Write a Python program that creates a generator function that yields cubes of numbers from 1 to n. Accept n from the user. 
+
+
+# Exercise 2] random:
+# Write a Python program to implement a generator that generates random numbers within a given range.
+
+
+# Exercise 3] primes:
+# Write a Python program that creates a generator function that generates all prime numbers between two given numbers. 
