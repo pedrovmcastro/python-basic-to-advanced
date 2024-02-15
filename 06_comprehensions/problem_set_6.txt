@@ -1,17 +1,17 @@
 Problem Set 6 - COMPREHENSIONS
 
 
-Exercise 1]:
+Exercise 1] even odd:
 Create two list comprehensions for a list of numbers - one for even numbers in that list, 
 and another for odd numbers in that list.
 
 
-Exercise 2]:
+Exercise 2] fruits 1:
 Use a list comprehension to make a variable named fruits_with_more_than_two_vowels.
 Hint: You'll need a way to check if something is a vowel.
 
 
-Exercise 3]:
+Exercise 3] fruits 2:
 Using list comprehensions, and the list fruits = ['mango', 'kiwi', 'strawberry', 'guava', 'pineapple', 'mandarin orange']:
 a) Make a list that contains each fruit with more than 5 characters;
 b) Make a list that contains each fruit with exactly 5 characters;
@@ -19,17 +19,17 @@ c) Make a list that contains fruits that have less than 5 characters.
 d) Make a list containing the number of characters in each fruit. Output would be [5, 4, 10, etc... ]
 
 
-Exercise 4]:
+Exercise 4] flatten matrix:
 Suppose I want to flatten a given 2-D list:
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 Expected Output: flatten_matrix = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
-Exercise 5]:
+Exercise 5] flatten planets:
 Suppose I want to flatten a given 2-D list and only include those strings whose lengths are less than 6:
 planets = [[‘Mercury’, ‘Venus’, ‘Earth’], [‘Mars’, ‘Jupiter’, ‘Saturn’], [‘Uranus’, ‘Neptune’, ‘Pluto’]]
 Expected Output: flatten_planets = [‘Venus’, ‘Earth’, ‘Mars’, ‘Pluto’]
 
 
-Exercise 6]: Transposing a Matrix
+Exercise 6] transposing:
 Transpose a matrix using a nested list comprehension.
