@@ -1,0 +1,88 @@
+Problem Set 5 - FUNCTIONS
+
+Exercise 1] double:
+Create a function that takes an integer as a parameter and returns its double.
+
+
+Exercise 2] check:
+Create a function to checks whether a number is positive or negative.  
+The return value should be 1 if positive, -1 if negative, and 0 if it is equal to 0.
+
+
+Exercise 3] perfect square:
+Create a function to check whether a number is a perfect square. 
+A perfect square is a non-negative integer that can be expressed as the square of another integer.
+
+
+Exercise 4] sphere volume:
+Create a function for calculating the volume of a sphere. 
+The radius is passed as a parameter.
+V = 4/3*pi*R³
+
+
+Exercise 5] seconds:
+Create a function that receives 3 integer numbers as parameters, representing hours, minutes and seconds,
+and converts them to seconds.
+
+
+Exercise 6] digits:
+Write a function that receives a positive integer and returns the sum of all its digits. 
+For example, the number 251 should result in the value 8 (2+5+1). 
+If the provided number is not greater than zero, the program should terminate with the message 'Invalid number'.
+
+
+Exercise 7] between:
+Create a function that receives two positive integers as parameters and returns the sum of the integers existing between them.
+
+
+Exercise 8] union:
+Create a function that receives, as parameters, two arrays of 10 integer elements each and calculates and returns,
+also as a parameter, the union array of the first two.
+
+
+Exercise 9] date:
+Create a function that receives the current date (day, month, and year as integers) and displays it on the screen in full textual format.
+Example: Date: 01/01/2000, print: January 1, 2000.
+
+
+Exercise 10] sub-string:
+Implement a function that returns the first position of a sub-string within a string.
+If the sub-string is not found, the function should return -1.
+
+
+Exercise 11] strings:
+Resolve the following questions involving two strings (str1 and str2):
+a) calculates the length of each string;
+b) compares the two and returns whether they are equal or different;
+c) concatenates str2 to str1;
+d) the function concatenates n characters from str2 to str1;
+e) receives any character and returns the string with the given character always in uppercase.
+
+
+Exercise 12] fractions:
+Create a program that performs simple fraction operations:
+a) create and read two fractions p and q, each composed of a numerator and denominator;
+b) find the greatest common divisor between the numerator and the denominator and simplify the fractions;
+c) present the sum, subtraction, product, and quotient between the fractions read.
+ Note: create a function for each item.
+
+
+Exercise 13] named tuple:
+A survey was conducted on some physical characteristics of five residents of a certain region. 
+The following data were collected for each resident: 
+gender, eye color (A - Blue or C - Brown), hair color (L - Blond, P - Black, C - Brown), and age.
+a) Create a function that reads this data into an array.
+b) Create a function that determines the average age of people with brown eyes and black hair.
+c) Create a function that determines and returns to the main program the oldest age among the residents.
+d) Create a function that determines and returns to the main program the quantity of females whose age is between 18 and 35 (inclusive) 
+and who have blue eyes and blond hair.
+
+
+Exercise 14] args kwargs 1:
+Create a function that accepts command line arguments, both positional and keyword arguments, 
+and prints both positional and keyword arguments.
+
+
+Exercise 15] args kwargs 2:
+Create a function that accepts a variable number of dictionarys as named arguments (kwargs)
+and merges them into a single dictionary.
