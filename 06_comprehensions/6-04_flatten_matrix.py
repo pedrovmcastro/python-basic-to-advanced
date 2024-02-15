@@ -1,19 +1,14 @@
 """
-Exercise:
+Exercise 4:
+Suppose I want to flatten a given 2-D list:
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Expected Output: flatten_matrix = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 (PT-BR)
-Exercício:
-
-"""
-
-"""
-Example 2:
-
-Suppose I want to flatten a given 2-D list:
-
+Exercício 4:
+Suponha que eu queira achatar uma lista 2D dada:
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-
-Expected Output: flatten_matrix = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Saída Esperada: flatten_matrix = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 """
 
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
@@ -21,7 +16,7 @@ matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 flatten_matrix = [val for sublist in matrix for val in sublist]
 print(flatten_matrix)
 
-# EXEMPLO 2:
+# EXAMPLE 2:
 
 matrix = []
 

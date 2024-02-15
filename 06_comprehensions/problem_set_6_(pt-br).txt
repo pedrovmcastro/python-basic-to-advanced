@@ -1,0 +1,31 @@
+Exercícios 6 - COMPREHENSIONS
+
+
+Exercício 1]:
+Faça duas list comprehension para uma lista de números - uma para números pares dessa lista, outra
+para números impares dessa lista.
+
+
+Exercício 2]:
+Use uma list comprehension para criar uma variável chamada frutas_com_mais_de_duas_vogais.
+Dica: Você precisará de um jeito de checar se alguma coisa é uma vogal.
+
+Exercício 3]:
+Usando list comprehensions e a lista fruits = ['mango', 'kiwi', 'strawberry', 'guava', 'pineapple', 'mandarin orange']:
+a) Crie uma lista que contenha cada fruta com mais de 5 caracteres;
+b) Crie uma lista que contenha cada fruta com exatamente 5 caracteres;
+c) Crie uma lista que contenha frutas com menos de 5 caracteres.
+d) Crie uma lista contendo o número de caracteres em cada fruta. A saída seria [5, 4, 10, etc...]
+
+Exercício 4]:
+Suponha que eu queira achatar uma lista 2D dada:
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Saída Esperada: flatten_matrix = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+Exercício 5]:
+Suponha que eu queira achatar uma lista 2D fornecida e incluir apenas aquelas strings cujos comprimentos são menores que 6:
+planetas = [['Mercúrio', 'Vênus', 'Terra'], ['Marte', 'Júpiter', 'Saturno'], ['Urano', 'Netuno', 'Plutão']]
+Saída Esperada: flatten_planetas = ['Vênus', 'Terra', 'Marte', 'Plutão']
+
+Exercício 6]:
+Faça a transposta de uma matriz usando list comprehension aninhadas.
