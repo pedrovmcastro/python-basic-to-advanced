@@ -1,0 +1,73 @@
+Problem Set 9 - FILES
+
+
+Exercise 1] introduction:
+Write a programam that:
+(a) Creates/opens a text file named "introduction.txt";
+(b) Allows the user to record various characteres in this file until the user enters the character '0';
+(c) Closes the file.
+
+
+Exercise 2] lines:
+Write a program that receives a text file from the user and displays on the screen how many lines this file has.
+
+
+Exercise 3] vowels:
+Write a programa that receives a text file from the user and displays on the screen how many letters are vowels.
+
+
+Exercise 4] count:
+Write a program that receives a text file and a character from the user. Display on the screen how many times that
+character occurs within the file. 
+
+
+Exercise 5] alphabet:
+Write a program that receives a text file from the user and displays on the screen how many times each letter of the alphabet
+occurs within the file. 
+
+
+Exercise 6] star:
+Write a program that receives a text file from the user. The program should creates another text file containing the 
+the text from the input file, but with the vowels replaced by "*". 
+
+
+Exercise 7] third:
+Write a program that receives two text files from the user, and cretes a third file with the content of the two files combined.
+
+
+Exercise 8] cities:
+Write a program that receives the name of an input file and another for output. The input file contains, in each line, 
+the name of a city and its population number. The program should read the input file and generate
+an output file that contains the name of the most populous city followed by its population number.
+
+
+Exercise 9] words:
+Open a text file and display on the screen the number of characters, number of lines and number of words in this file.
+
+
+Exercise 10] phone:
+Create a program that allows the user to enter various names and phone numbers for registration, and generate 
+a file with this informations, one per line. The user concludes the input entering "0" for phone number.
+
+
+Exercise 11] birthdates:
+Given a file containing a set of names and birthdates (DD/MM/AAAA), create a program that reads the file name and today's
+date and generates another file containing the name and age of each person from the first file.
+
+
+Exercise 12] products:
+Write a program that reads a text file containing the name and price of various products (separated per line),
+and calculates the total purchase amount.
+
+
+Exercise 13] highest grade:
+Write a program that receives from the user a text file containing the name and grade from various students
+(in the following format: NAME: JOHN GRADE: 8), one student per line. 
+Display on the screen the name and grade of the student with the highest grade.
+
+
+Exercise 14] students:
+Create a program that takes as input the number of students in a discipline. Dynamically allocate two arrays to store 
+information about these students. The first array contains the names of the students, and the second contains their 
+final grades. Create a file that stores, on each line, the name of the student and their final grade. Use names with 
+a maximum of 40 characters. If the name does not have enough characters, complete with blank spaces.

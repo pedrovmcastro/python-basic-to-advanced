@@ -1,0 +1,72 @@
+Exercícios 9 - FILES
+
+
+Exercício 1]:
+Escreva um programa que:
+(a) Crie/abra um arquivo texto de nome "introduction.txt"
+(b) Permita que o usuário grave diversos caracteres nesse arquivo, até que o usuário entre com o caractere '0'
+(c) Feche o arquivo
+
+
+Exercício 2]:
+Faca um programa que receba do usuario um arquivo texto e mostre na tela quantas linhas esse arquivo possui.
+
+
+Exercício 3]:
+Faça um programa que receba do usuario um arquivo texto e mostre na tela quantas letras sao vogais.
+
+
+Exercício 4]:
+Faça um programa que receba do usuário um arquivo texto e um caractere. Mostre na tela quantas vezes aquele
+caractere ocorre dentro do arquivo.
+
+
+Exercício 5]:
+Faça um programa que receba do usuário um arquivo texto e mostre na tela quantas vezes cada letra do alfabeto aparece
+dentro do arquivo.
+
+
+Exercício 6]:
+Faça um programa que receba do usuário um arquivo texto. Crie outro arquivo texto contendo o texto do arquivo de 
+entrada, mas com as vogais substituídas por '*'.
+
+
+Exercício 7]:
+Faça um programa que receba dois arquivos do usuário, e crie um terceiro arquivo com o conteúdo dos dois primeiros juntos.
+
+
+Exercício 8]:
+Faça um programa que receba o nome de um arquivo de entrada e outro de saída. O arquivo de entrada contém em cada linha
+o nome de uma cidade e o seu número de habitantes. O programa deverá ler o arquivo de entrada
+e gerar um arquivo de saída em que aparece o nome da cidade mais populosa seguida pelo seu número de habitantes.
+
+
+Exercício 9]:
+Abra um arquivo texto, calcule e escreva o número de caracteres, o número de linhas e o número de palavras neste arquivo.
+
+
+Exercício 10]:
+Faça um programa que permita que o usuário entre com diversos nomes e telefone para cadastro, e crie um arquivo com essas 
+informações, uma por linha. O usuário finaliza a entrada com '0' para o telefone.
+
+
+Exercício 11]:
+Dado um arquivo contendo um conjunto de nome e data de nascimento (DD/MM/AAAA), faça um programa que leia o nome do arquivo
+e a data de hoje e construa outro arquivo contendo o nome e a idade de cada pessoa do primeiro arquivo. 
+
+
+Exercício 12]:
+Faça um programa que leia um arquivo contendo o nome e o preço de diversos produtos (separados por linha),
+e calcule o total da compra.
+
+
+Exercício 13]:
+Faça um programa que receba do usuário um arquivo que contenha o nome e a nota de diversos alunos (da seguinte forma:
+NOME: JOÃO NOTA: 8), um aluno por linha. Mostre na tela o nome e a nota do aluno que possui a maior nota.
+
+
+Exercício 14]:
+Crie um programa que receba como entrada o número de alunos de uma disciplina. Aloque dinamicamente dois vetores para 
+armazenar as informações a respeito desses alunos. O primeiro vetor contém o nome dos alunos e o segundo contém suas notas finais
+Crie um arquivo que armazene, a cada linha, o nome do aluno e sua nota final. Use nomes com no máximo 40 caracteres. 
+Se o nome não contém caracteres, complete com espaço em branco.
