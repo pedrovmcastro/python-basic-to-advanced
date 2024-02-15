@@ -1,47 +1,59 @@
-Exercise 1:
+Problem Set 2 - CONDITIONALS
+
+
+Exercise 1] greater:
 Implement a program that takes two numbers as input and shows which one is greater.
 
-Exercise 2:
+
+Exercise 2] positive:
 Implement a program that prompts the user for a number. If this number is positive, calculate its square root. 
 If the number is negative, display a message stating that the number is invalid. 
 
-Exercise 3:
+
+Exercise 3] grades:
 Create a program that reads two grades of a student, checks if the grades are valid, and displays the mean of these grades on the screen.
 A valid grade must be, necessarily, a value between 0.0 and 10.0. In case the grade does not have a valid value, this information 
 should be printed to the user, and the program terminates.
 
-Exercise 4:
+
+Exercise 4] loan:
 Prompt the user for the salary of a worker and the installment amount of a loan.
 If the installment amount is greater than 20% of the salary print: Loan not granted, otherwise print: Loan granted.
 
-Exercise 5:
+
+Exercise 5] weight:
 Implement a program that prompts the user for the height and gender of a person (M/F), and calculates and displays on the screen their ideal weight,
 considering the following formulas (where h corresponds the height):
     - Man: (72.7 * h) - 58
     - Woman: (62.1 * h) - 44.7
 
-Exercise 6:
+
+Exercise 6] week:
 Using match, implement a program that prompts the user for an integer between 1 and 7 and prints the corresponding 
 day of the week. That is, Sunday if 1, Monday if 2, and so on.
 
-Exercise 7:
+
+Exercise 7] triangle:
 Given three values, A, B, C, check if they can be the lengths of the sides of a triangle
 and, if they are, determine whether the triangle is scalene, equilateral, or isosceles, considering the following concepts:
  - The length of each side of a triangle is less than the sum of the other two sides.
  - A triangle is called equilateral if it has the same length for two sides.
  - A triangle is considered scalene if all three sides have different lengths.
 
-Exercise 8:
+
+Exercise 8] retirement:
 Read the age and length of service of a worker and prints whether they can retire or not. The retirement conditions are:
     - Being at least 65 years old.
     - Or having worked at least 30 years.
     - Or being at least 60 years old and having worked at least 25 years.
 
-Exercise 9:
+
+Exercise 9] operations:
 Create a program that presents the user with a menu containing 4 options of mathematical operations (the basic ones, for example). 
 The user chooses one of the options, and your program then prompts for two numerical values, performs the operation, displays the result, and exits.
 
-Exercise 10:
+
+Exercise 10] final:
 The final grade of a student is calculated from three grades assigned in the range of 0 to 10, respectively:
 a laboratory work, a semestral evaluation, and a final exam.
 The mean of the three mentioned grades follows the weights:
