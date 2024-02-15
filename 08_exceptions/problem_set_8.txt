@@ -1,0 +1,35 @@
+Problem Set 8 - EXCEPTIONS
+
+
+# Exercise 1] convert:
+# Ask the user to enter a number. Attempt to convert the input to an integer.
+# If the conversion fails, inform the user that the entered value is not an integer.
+
+
+# Exercise 2] index:
+# Create a list of numbers. Ask the user for an index and try to access the corresponding element in the list.
+# Use a try-except block to handle indices that are out of range.
+
+
+# Exercise 3] division:
+# Ask the user to input two numbers.
+# Try to divide the first number by the second.
+# Handle errors such as division by zero, incorrect values, and other unspecified errors. 
+# Print appropriate messages for each type of error.
+
+
+# Exercise 4] expression:
+# Ask the user to enter a simple mathematical expression (e.g., "2 + 3").
+# Try to evaluate the expression and print the result. Use a try-except block to handle evaluation errors.
+
+
+# Exercise 5] key:
+# Create a dictionary with some keys and values.
+# Ask the user for a key to search in the dictionary.
+# Try to access the key and print the corresponding value. If the key does not exist, print a message indicating it.
+
+
+# Exercise 6] float:
+# Create a program that prompts the user to prompt a number.
+# Use a loop to continue prompting until the user enters a valid input that can be converted to a number.
+# Handle with type conversion errors.

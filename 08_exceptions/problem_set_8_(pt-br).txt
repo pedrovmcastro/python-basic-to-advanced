@@ -1,0 +1,35 @@
+Exercícios 8 - EXCEPTIONS
+
+
+# Exercício 1]:
+# Peça ao usuário para inserir um número. Tente converter a entrada para um número inteiro. 
+# Se a conversão falhar, informe ao usuário que o valor inserido não é um número inteiro.
+
+
+# Exercício 2]:
+# Crie uma lista de números. Solicite ao usuário um índice e tente acessar o elemento correspondente na lista. 
+# Use um bloco try-except para lidar com índices fora do intervalo.
+
+
+# Exercício 3]:
+# Peça ao usuário para inserir dois números.
+# Tente dividir o primeiro pelo segundo.
+# Trate os erros de divisão por zero, valores incorretos e outros erros não especificados. 
+# Imprima mensagens apropriadas para cada tipo de erro.
+
+
+# Exercício 4]:
+# Peça ao usuário para inserir uma expressão matemática simples (por exemplo, "2 + 3"). 
+# Tente avaliar a expressão e imprimir o resultado. Use um bloco try-except para lidar com erros de avaliação.
+
+
+# Exercício 5]:
+# Crie um dicionário com algumas chaves e valores.
+# Solicite ao usuário uma chave para buscar no dicionário.
+# Tente acessar a chave e imprimir o valor correspondente. Se a chave não existir, imprima uma mensagem indicando isso.
+
+
+# Exercício 6]:
+# Crie um programa que solicita ao usuário para inserir um número.
+# Use um loop para continuar solicitando até que o usuário insira um valor que possa ser convertido para um número. 
+# Lide com erros de conversão de tipo.
