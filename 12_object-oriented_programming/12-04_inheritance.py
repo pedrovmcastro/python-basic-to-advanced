@@ -63,7 +63,7 @@ class Computer(Equipment):
         return f"Brand: {self.__brand}\nRAM: {self.__RAM}\n"
     
 
-class Equipment_Test:
+class EquipmentTest:
 
         @classmethod
         def main(cls):
