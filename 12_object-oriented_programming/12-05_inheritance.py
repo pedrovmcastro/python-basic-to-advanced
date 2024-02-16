@@ -1,5 +1,5 @@
 """
-Exercício 4: 
+Exercício 5: 
 Crie um novo pacote com o nome: herança. Todas as (três) classes criadas abaixo deverão ser salvas nesse pacote.
 
 a) Crei uma classe Equipamento com dois atributos privados.
