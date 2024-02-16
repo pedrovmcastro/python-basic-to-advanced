@@ -73,7 +73,7 @@ class EquipmentTest:
             print(f"Equipment: {computer1.name}\nVoltage: {computer1.voltage}\nBrand: {computer1.brand}\nRAM: {computer1.RAM}\n")
             
 print("TEST 1")
-Equipment_Test.main()
+EquipmentTest.main()
 
 print("TEST 2")
 equip2 = Equipment("Desktop", "110V")
