@@ -8,12 +8,8 @@
 
 
 def compose(func1, func2):
-
-
     def composed_function(x):
         return func2(func1(x))
-    
-    
     return composed_function
 
 

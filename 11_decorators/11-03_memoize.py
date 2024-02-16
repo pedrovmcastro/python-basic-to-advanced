@@ -11,16 +11,12 @@
 
 def memoize(func):
     cache = {}
-
-
     def wrapper(*args, **kwargs):
         key = (args, frozenset(kwargs.items()))
         if key in cache:
             return f'The function {func.__name__} has already been called with these arguments.'
         cache[key] = func(*args, **kwargs)
         return func(*args, **kwargs)
-    
-    
     return wrapper
 
 
