@@ -1,4 +1,11 @@
 """
+Exercise 2:
+Write a code that defines the class Square, with attributes side, area, and perimeter, and methods calculate_area, calculate_perimeter,
+and print. The calculate_area and calculate_perimeter methods should perform their respective calculations
+and assign the values to the attributes area and perimeter. The print method should display on the screen the values of all attributes.
+
+
+(PT-BR)
 Exercício 2:
 Escreva um código que apresente a classe Quadrado, com atributos lado, área e perímetro e,
 os métodos calcular_area, calcular_perimetro e imprimir. Os métodos calcular_area e 

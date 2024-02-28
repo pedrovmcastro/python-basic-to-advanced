@@ -1,5 +1,29 @@
 """
-Exercício 5: 
+Exercise 7:
+
+a) Create a new package with the name: inheritance. All three classes created below should be saved in this package.
+
+b) Create a class Equipment with two private attributes.
+
+c) Create a class Computer with two attributes of your choice, also private. The Computer class should inherit everything 
+from the Equipment class.
+
+d) Create access and modification methods for all attributes defined in both classes.
+
+e) Create a class TestEquipment, which should contain the main() method. In this class, 
+create an object of the Equipment class and instantiate the two attributes you declared in the Equipment class. 
+Also, create an object of the Computer class, using the attributes declared in the Computer class 
+and the two inherited from the Equipment class.
+
+f) The main() method should display the information of the two objects created.
+
+g) Create the display() method in the Equipment class to show the data of this class.
+
+h) Rewrite the display() method in the Computer class, taking advantage of what is already written in the superclass Equipment.
+
+
+(PT-BR)
+Exercício 7: 
 Crie um novo pacote com o nome: herança. Todas as (três) classes criadas abaixo deverão ser salvas nesse pacote.
 
 a) Crei uma classe Equipamento com dois atributos privados.

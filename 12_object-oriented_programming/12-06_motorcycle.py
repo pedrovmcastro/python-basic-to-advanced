@@ -1,5 +1,26 @@
 """
-Exercício 3: Escreva um código que apresente a classe Moto, com atributos marca, modelo, cor 
+Exercise 6:
+Write a code that defines the class Motorcycle, with attributes brand, model, color, gear, and the method print. 
+The print method should display on the screen the values of all attributes. 
+The gear attribute indicates the current gear of the motorcycle, represented as an integer, where 0 - neutral, 1 - first, 2 - second, etc.
+
+Implement the following:
+
+a) The methods shift_up and shift_down, which should change the gear. The print method should be modified to display
+the values of all attributes.
+
+b) The attributes min_gear and max_gear, indicating the lowest and highest possible gears for the motorcycle. 
+The shift_up and shift_down methods should be rewritten to prevent changing gears to values below or above the possible range.
+
+c) Add the attribute engine_on, which will indicate whether the motorcycle is turned on or off. 
+This attribute should be of boolean type. Modify the print method to display the values of all attributes.
+
+d) Add the methods turn_on and turn_off, which should change the content of the engine_on attribute accordingly.
+
+
+(PT-BR)
+Exercício 6: 
+Escreva um código que apresente a classe Moto, com atributos marca, modelo, cor 
 e marcha e, o método imprimir. O método imprimir deve mostrar na tela os valores de todos os
 atributos. O atributo marcha indica em que marcha a Moto se encontra no momento, sendo representado
 de forma inteira, onde 0 - neutro, 1 - primeira, 2 - segunda, etc. 
@@ -62,7 +83,7 @@ class Motorcycle:
         print(f"Gear: {self.__gear}")
         print(f"Highest Gear: {self.__hi_gear}")
         print(f"Lowest Gear: {self.__low_gear}")
-        print("Ligada" if self.__on else "Desligada")
+        print("On" if self.__on else "Off")
 
 
 moto1 = Motorcycle("Honda", "CB500X", "black", 0, 5, 0)

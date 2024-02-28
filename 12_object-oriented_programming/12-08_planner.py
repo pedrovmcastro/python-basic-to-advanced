@@ -1,10 +1,24 @@
-# 4. Crie uma classe Agenda que pode armazenar 10 pessoas e seja capaz de realizar as seguintes operações:
+"""
+Exercise 8:
 
-# > armazena_pessoa(nome, idade, altura)
-# > remove_pessoa(nome)
-# > busca_pessoa(nome) - informa em que posição da agenda está a pessoa
-# > imprime_agenda() - imprime os dados de todas as pessoas da agenda
-# > imprime_pessoa(indice) - imprime os dados da pessoa que está na posição do indice 
+Create a class Planner that can store information for 10 people and is capable of performing the following operations:
+
+    store_person(name, age, height)
+    remove_person(name)
+    search_person(name) - informs the position of the person in the planner
+    print_planner() - prints the data of all people in the planner
+    print_person(index) - prints the data of the person at the specified index
+
+
+(PT-BR)
+Exercício 8:
+Crie uma classe Agenda que pode armazenar 10 pessoas e seja capaz de realizar as seguintes operações:
+    > armazena_pessoas(nome, idade, altura)
+    > remove_pessoa(nome)
+    > busca_pessoa(nome) - informa em que posição da agenda está a pessoa
+    > imprime_agenda() - imprime os dados de todas as pessoas da agenda
+    > imprime_pessoa(indice) - imprime os dados da pessoa que está na posição do índice
+"""
 
 class Planner:
 
